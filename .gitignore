@@ -1,0 +1,20 @@
+# Credentials — NEVER commit these
+*.json.key
+service-account*.json
+credentials*.json
+.env
+.env.local
+secrets/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# n8n local exports that may contain sensitive data
+# (only commit sanitized workflow exports)
+*-raw.json
