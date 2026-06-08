@@ -245,21 +245,15 @@ leadops-ai-crm/
 
 ## 📸 Screenshots
 
-> Add your screenshots to `docs/screenshots/` and they will render here.
+![Workflow](docs/screenshots/workflow-canvas.png)
 
-### n8n Workflow Canvas
-![n8n Workflow](docs/screenshots/n8n_workflow.png)
+![Google Form](docs/screenshots/google-form.png)
 
-### AI-Generated Customer Email
-![Email Output](docs/screenshots/email_output.png)
+![Email](docs/screenshots/auto-reply-email.png)
 
-### Hot Lead Alert
-![Hot Lead Alert](docs/screenshots/hot_lead_alert.png)
+![Hot Lead Alert](docs/screenshots/hot-lead-alert.png)
 
-### Google Sheets CRM
-![CRM Sheet](docs/screenshots/crm_sheet.png)
-
----
+![CRM](docs/screenshots/crm-sheet.png)
 
 ## 🚀 Setup
 
@@ -376,7 +370,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**Built by [Vamshi Krishna](https://github.com/vamshikrishna1024)**
+**Built by [Martha Vamshi Krishna](https://github.com/vamshikrishna1024)**
 
 Final-year B.Tech AIML student | Backend & AI Automation
 
